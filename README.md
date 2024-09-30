@@ -1,3 +1,1 @@
-# Курс по докеру от karpov.courses
-
-## Код к уроку №4. Работа с файлами
+# Simple project to learn Docker
